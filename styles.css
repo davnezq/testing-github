@@ -1,9 +1,13 @@
 body {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     background-color: blue;
     color: coral;
 =======
     background-color: blueviolet;
+=======
+    background-color:azure;
+>>>>>>> Stashed changes
     color:aqua;
 >>>>>>> colorscheme
 }
